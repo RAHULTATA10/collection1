@@ -1,2 +1,2 @@
-# collection1
-collection of game object
+# p5.play-boilerplate
+Boiler plate for p5.play
